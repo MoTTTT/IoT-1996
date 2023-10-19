@@ -1,0 +1,4 @@
+javac uNode.java
+javac servert.java
+javac serverd.java
+javac uNodeClient.java
